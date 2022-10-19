@@ -1,2 +1,2 @@
 # Superstore-Analysis
-Sql and Tableau Sample Projects
+Sql and Tableau Sample Project
